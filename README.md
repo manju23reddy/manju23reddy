@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manju23reddy
-- 👀 I’m interested in ... Developing Solutions for real world propblems and needs (Mobile and IoT based)
+- 👀 I’m interested in ... Developing Solutions for real world problems and needs (Mobile and IoT based)
 - 🌱 I’m currently learning ... (Always learning Andorid and Kotlin)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail me at : manju23reddy@gmail.com
